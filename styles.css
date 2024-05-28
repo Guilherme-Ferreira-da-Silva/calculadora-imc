@@ -1,6 +1,6 @@
 /* Estilos para o corpo da página */
 body {
-    background-image: url('imagens/backgroundimg.jpg'); /* Imagem de fundo */
+    background-image: url('/imagens/backgroundimg.jpg'); /* Imagem de fundo */
     background-size: cover; /* Cobrir toda a tela */
     background-attachment: fixed; /* Fixo ao rolar a página */
     font-family: Arial, sans-serif; /* Fonte padrão */
@@ -21,7 +21,7 @@ body {
     left: 0; /* Alinhado à esquerda */
     width: 100%; /* Largura total */
     height: 100%; /* Altura total */
-    background-image: url('imagens/backgroundimg.jpg'); /* Imagem de fundo */
+    background-image: url('/imagens/backgroundimg.jpg'); /* Imagem de fundo */
     background-size: cover; /* Cobrir toda a tela */
     background-attachment: fixed; /* Fixo ao rolar a página */
     filter: blur(4px); /* Desfoque reduzido */
