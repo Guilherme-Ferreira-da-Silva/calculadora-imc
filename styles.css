@@ -54,6 +54,7 @@ input[type="number"], select {
     margin-bottom: 10px; /* Espaço abaixo */
     padding: 2px; /* Preenchimento interno */
     height: 30px; /* Altura */
+    font-size: 16px; /* Definir o tamanho da fonte para 16px */
 }
 
 /* Estilos para a div de botões */
